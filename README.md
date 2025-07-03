@@ -27,8 +27,7 @@ Jusochan은 외국인을 위한 **도로명 주소 다국어 번역 웹사이트
 
 | 구분        | 기술 스택                                      |
 |-------------|------------------------------------------------|
-| **Frontend**| Next.js, TypeScript, React                      |
-| **Database**| MySQL                                          |
+| **Frontend**| Next.js, TypeScript, React                      |                                         |
 | **API**     | 행정안전부 도로명주소 API, Google Translate API |
 | **Hosting** | AWS EC2                                        |
 | **Versioning** | Git, GitHub                                 |
